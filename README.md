@@ -19,33 +19,33 @@ Next install the app in the NGI Emulator by going to the File > Open App and Nav
 ### Main Page
 
 The user is initially presented with the main page showing the options to tune the settings or search for gas stations.
-![Main Page](/.git-readme/main.png)
+![Main Page](/.gitimages/main.png)
 
 ### Settings Page
 
 The user can change the following settings, language, fuel type, or units
-![Settings Page](/.git-readme/settings.png)
+![Settings Page](/.gitimages/settings.png)
 
 #### Language
 The app supports using the language from the English, Spanish, and French.
-![Settings Page](/.git-readme/settings-language.png)
+![Settings Page](/.gitimages/settings-language.png)
 
 #### Fuel Type
 The app supports search from a variety of alternative fuel, as well as regular gasoline. The full list can be seen in [src/config.js](/src/config.js) 
-![Settings Page](/.git-readme/settings-fuel.png)
+![Settings Page](/.gitimages/settings-fuel.png)
 
 #### Units
 Finally the app supports getting the distance to the gas stations in miles or kilometers
-![Settings Page](/.git-readme/settings-units.png)
+![Settings Page](/.gitimages/settings-units.png)
 
 
 ### Gas Stations Page
 
 The user can search for gas stations close to the vehicle by clicking the Search button.  This will pull up a short list of local gas stations, sorted by distance.
-![Settings Page](/.git-readme/stations.png)
+![Settings Page](/.gitimages/stations.png)
 
 Upon clicking on a station, the user will be given the option to navigate to that station automatically.
-![Settings Page](/.git-readme/station-modal.png)
+![Settings Page](/.gitimages/station-modal.png)
 
 
 
