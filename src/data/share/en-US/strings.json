@@ -1,0 +1,35 @@
+{
+    "mainCard.title": "Hello Gas Stations",
+    "mainCard.body": "<p>This App is meant to help you find Gas Stations near your Vehicle</p> <br><p class='text-left'>If you have an alternative fuel type, try changing this option in the Settings</p>",
+    "btn_search": "Search",
+
+    "settingsView.title": "Settings",
+    "settingView.title": "Setting Options",
+    "stationsView.title": "Nearby Stations",
+    "stationCard.unit.miles": "miles",
+    "stationCard.unit.kilometers": "km",
+
+    "stationModal.routeTo": "Route Vehicle To Station",
+    "stationModal.cancel": "Cancel",
+
+    "settings.forceLanguage": "Language Override",
+    "settings.fuelType": "Fuel Type",
+    "settings.units": "Units",
+
+    "settings.forceLanguage.none": "Use Vehicle Language",
+    "settings.forceLanguage.en-US": "English",
+    "settings.forceLanguage.es-US": "Spanish",
+    "settings.forceLanguage.fr-CA": "French",
+
+    "settings.fuelType.GAS": "Gasoline",
+    "settings.fuelType.BD": "Biodiesel",
+    "settings.fuelType.CNG": "Compressing Natural Gas",
+    "settings.fuelType.ELEC": "Electric",
+    "settings.fuelType.E85": "E85",
+    "settings.fuelType.HY": "Hydrogen",
+    "settings.fuelType.LNG": "Liquefied Natural Gas",
+    "settings.fuelType.LPG": "Liquefied Petroleum Gas",
+
+    "settings.units.miles": "Miles",
+    "settings.units.kilometers": "Kilometers"
+}

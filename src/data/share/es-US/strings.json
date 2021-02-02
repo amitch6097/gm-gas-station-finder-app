@@ -1,0 +1,35 @@
+{
+    "mainCard.title": "Hola gasolineras",
+    "mainCard.body": "<p>Esta aplicación está destinada a ayudarlo a encontrar gasolineras cerca de su vehículo</p> <br><p class='text-left'>Si tiene un tipo de combustible alternativo, intente cambiar esta opción en la Configuración</p>",
+    "btn_search": "Buscar",
+
+    "settingsView.title": "Configuraciones",
+    "settingView.title": "Opciones de configuración",
+    "stationsView.title": "Estaciones cercanas",
+    "stationCard.unit.miles": "millas",
+    "stationCard.unit.kilometers": "km",
+
+    "stationModal.routeTo": "Ruta del vehículo a la estación",
+    "stationModal.cancel": "Cancelar",
+
+    "settings.forceLanguage": "Anulación de idioma",
+    "settings.fuelType": "Tipo de combustible",
+    "settings.units": "Unidades",
+
+    "settings.forceLanguage.none": "Usar idioma del vehículo",
+    "settings.forceLanguage.en-US": "Inglesa",
+    "settings.forceLanguage.es-US": "Español",
+    "settings.forceLanguage.fr-CA": "Francesa",
+
+    "settings.fuelType.GAS": "Gasoline",
+    "settings.fuelType.BD": "Biodiesel",
+    "settings.fuelType.CNG": "Compressing Natural Gas",
+    "settings.fuelType.ELEC": "Electric",
+    "settings.fuelType.E85": "E85",
+    "settings.fuelType.HY": "Hydrogen",
+    "settings.fuelType.LNG": "Liquefied Natural Gas",
+    "settings.fuelType.LPG": "Liquefied Petroleum Gas",
+
+    "settings.units.miles": "Millas",
+    "settings.units.kilometers": "Kilómetros"
+}

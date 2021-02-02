@@ -1,0 +1,35 @@
+{
+    "mainCard.title": "Bonjour les stations-service",
+    "mainCard.body": "<p>Cette application est destinée à vous aider à trouver des stations-service à proximité de votre véhicule</p> <br><p class='text-left'>Si vous avez un autre type de carburant, essayez de modifier cette option dans les paramètres</p>",
+    "btn_search": "Chercher",
+
+    "settingsView.title": "Paramètres",
+    "settingView.title": "Options de réglage",
+    "stationsView.title": "Stations à proximité",
+    "stationCard.unit.miles": "miles",
+    "stationCard.unit.kilometers": "km",
+
+    "stationModal.routeTo": "Itinéraire du véhicule à la gare",
+    "stationModal.cancel": "Annuler",
+
+    "settings.forceLanguage": "Remplacement de la langue",
+    "settings.fuelType": "Type de carburant",
+    "settings.units": "Unités",
+
+    "settings.forceLanguage.none": "Utiliser la langue du véhicule",
+    "settings.forceLanguage.en-US": "Anglaise",
+    "settings.forceLanguage.es-US": "Espagnole",
+    "settings.forceLanguage.fr-CA": "Française",
+
+    "settings.fuelType.GAS": "Gasoline",
+    "settings.fuelType.BD": "Biodiesel",
+    "settings.fuelType.CNG": "Compressing Natural Gas",
+    "settings.fuelType.ELEC": "Electric",
+    "settings.fuelType.E85": "E85",
+    "settings.fuelType.HY": "Hydrogen",
+    "settings.fuelType.LNG": "Liquefied Natural Gas",
+    "settings.fuelType.LPG": "Liquefied Petroleum Gas",
+
+    "settings.units.miles": "Miles",
+    "settings.units.kilometers": "Kilomètres"
+}

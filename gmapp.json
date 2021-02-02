@@ -1,0 +1,17 @@
+{
+  "name":"Hello Gas Stations",
+  "id":"94675504",
+  "template": "DriverFirst",
+  "theme" : {"primary": "#00C0FF"},
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "app.js",
+  "icon": "Icon.png",
+  "developer": "Andrew",
+  "category": "General",
+  "type": "RemoteLow",
+  "description": "Generated on 1/30/2021, 7:58:02 PM by ngi-sdk version 1.6.0",
+  "trusted": true,
+  "dffVersion": "1.8.15-1"
+}
