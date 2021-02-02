@@ -1,4 +1,5 @@
 require('../typdef');
+const Config = require('../config');
 const Strings = require('./strings.js');
 
 /**
@@ -39,10 +40,11 @@ Vehicle.prototype.getStrings = async function (forceLanguage = 'none') {
             gm.info.getVehicleConfiguration(resolve)
         );
         const languageCodeIndex = vehicleConfig.language;
-        languageIsoCode =
-            languageCodeIndex != null
-                ? gm.constants.language[languageCodeIndex]
-                : 'en-US';
+        const vehicleISOCode = gm.constants.language[languageCodeIndex];
+        const canUseVehicleISOCode =
+            vehicleISOCode &&
+            Config.forceLanguage.options.includes(vehicleISOCode);
+        languageIsoCode = canUseVehicleISOCode ? vehicleISOCode : 'en-US';
     }
 
     const json = await new Promise((resolve) =>
