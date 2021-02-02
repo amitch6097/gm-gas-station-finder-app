@@ -7,6 +7,15 @@ This app was created to get familiar with GM Drive First Framework.  You can fin
 ## Setup
 You will need to install the GM NGI Emulator found [here](https://developer.gm.com/docs/emu-downloads). Further you will need to aquire a [Google Places API Key](https://developers.google.com/places/web-service/overview) and a [Alternative Fuel Stations API](https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/).
 
+You will need to put theses in a .env.json file at the root of the project like so
+```
+{
+    "GOOGLE_PLACES_API_KEY": "...",
+    "GOV_ALTERNATIVE_FUEL_API_KEY": "..."
+}
+```
+__I have provided these for a short period of time__
+
 Next you can clone this repoistory and install the dev packages
 ```
 npm install
