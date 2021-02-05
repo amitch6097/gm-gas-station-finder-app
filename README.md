@@ -4,6 +4,9 @@
 ## Goal
 This app was created to get familiar with GM Drive First Framework.  You can find more information about it [here](https://developer.gm.com/docs/getting-started).
 
+## Future
+Given the amount of time to create this app I had to leave out a couple features.  In the future more languages could be supported, as well as better error handling of the app, such as checking network connectivity and failed API requests.  Further better testing could be done around these implementations.
+
 ## Setup
 You will need to install the GM NGI Emulator found [here](https://developer.gm.com/docs/emu-downloads). Further you will need to aquire a [Google Places API Key](https://developers.google.com/places/web-service/overview) and a [Alternative Fuel Stations API](https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/).
 
